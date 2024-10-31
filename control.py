@@ -22,7 +22,7 @@ print "\nCurrent time in GMT / Zulu time is:",currenttimeZulu
 
 
 # the secret (yes!) URL for the agenda. See http://support.google.com/calendar/bin/answer.py?hl=en&answer=37648 how to find your URL
-iCalAgendaUrl = ' https://www.google.com/calendar/ical/g3qgmhi6blablarucr6bces%40group.calendar.google.com/private-b6ff5b3c6579d8blabla7ec60/basic.ics'
+iCalAgendaUrl = ' https://www.google.com/calendar/ical/g3qgmhi6blablarucr6bces%40group.calendar.google.com/--------------------/basic.ics'
 
 
 '''
